@@ -1,0 +1,30 @@
+node_modules
+simplesoft_workspace_docs
+.claude
+.bundle
+.keystore
+daily
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Android signing / Firebase
+android/gradle.properties
+android/app/google-services.json
+android/app/GoogleService-Info.plist
+android/*.keystore
+android/app/*.keystore
+*.keystore
+*.jks
+*.p12
+*.pem
+*.key
+
+# Local build/cache output
+.gradle-home/
+android/.gradle/
+android/build/
+android/app/build/
+android/hs_err_pid*.log

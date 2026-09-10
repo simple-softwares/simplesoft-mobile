@@ -34,7 +34,7 @@ React Native mobile app for SimpleSoft ERP. Manage your business from your phone
 ## Stack
 
 - React Native
-- Expo (development)
+- React Native CLI
 - Redux for state management
 - Firebase for push notifications
 - Integrated with SimpleSoft backend API
@@ -54,13 +54,15 @@ npm install
 Run on iOS or Android:
 
 ```bash
-npx expo start
+npx react-native run-android
+npx react-native run-ios
 ```
 
 ### Build APK
 
 ```bash
-eas build --platform android
+cd android
+./gradlew assembleRelease
 ```
 
 ## Backend Connection

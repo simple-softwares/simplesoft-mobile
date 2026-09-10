@@ -2,6 +2,23 @@
 
 React Native mobile app for SimpleSoft ERP. Manage your business from your phone — projects, CRM, invoicing, HR, chat, notifications, and more.
 
+## Screenshots
+
+![Mobile Login](screenshots/mobile/login.jpeg)
+![Mobile Dashboard Light](screenshots/mobile/dashboard_light.jpeg)
+![Mobile Dashboard Dark](screenshots/mobile/dashboard-dark.jpeg)
+![Mobile Projects](screenshots/mobile/projects.jpeg)
+![Mobile Tasks](screenshots/mobile/task.jpeg)
+![Mobile Contacts](screenshots/mobile/contacts.jpeg)
+![Mobile Notifications](screenshots/mobile/notifications.jpeg)
+![Mobile Settings Light](screenshots/mobile/settings_light.jpeg)
+![Mobile Settings Dark](screenshots/mobile/settings_dark.jpeg)
+![Mobile Drawer](screenshots/mobile/drawer_ligh.jpeg)
+![Mobile Notes](screenshots/mobile/notes.jpeg)
+![Mobile Onboarding](screenshots/mobile/onboardningscreen.jpeg)
+![Mobile AI Features](screenshots/mobile/ai.jpeg)
+![Mobile AI Cloud](screenshots/mobile/ai-cloud.jpeg)
+
 ## Features
 
 - Real-time dashboard with key metrics
@@ -11,6 +28,7 @@ React Native mobile app for SimpleSoft ERP. Manage your business from your phone
 - Team chat and notifications
 - Dark and light theme support
 - Push notifications via Firebase
+- AI-powered features
 - Responsive design for all phone sizes
 
 ## Stack

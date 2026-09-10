@@ -6,14 +6,14 @@ React Native mobile app for SimpleSoft ERP. Manage your business from your phone
 
 ### Screens
 
-![Mobile Login](../frontend/public/screenshots/mobile/login.jpeg)
-![Mobile Dashboard Light](../frontend/public/screenshots/mobile/dashboard_light.jpeg)
-![Mobile Dashboard Dark](../frontend/public/screenshots/mobile/dashboard-dark.jpeg)
-![Mobile Projects](../frontend/public/screenshots/mobile/projects.jpeg)
-![Mobile Tasks](../frontend/public/screenshots/mobile/task.jpeg)
-![Mobile Contacts](../frontend/public/screenshots/mobile/contacts.jpeg)
-![Mobile Notifications](../frontend/public/screenshots/mobile/notifications.jpeg)
-![Mobile Settings](../frontend/public/screenshots/mobile/settings_light.jpeg)
+![Mobile Login](https://github.com/simple-softwares/simplesoft-frontend/raw/main/public/screenshots/mobile/login.jpeg)
+![Mobile Dashboard Light](https://github.com/simple-softwares/simplesoft-frontend/raw/main/public/screenshots/mobile/dashboard_light.jpeg)
+![Mobile Dashboard Dark](https://github.com/simple-softwares/simplesoft-frontend/raw/main/public/screenshots/mobile/dashboard-dark.jpeg)
+![Mobile Projects](https://github.com/simple-softwares/simplesoft-frontend/raw/main/public/screenshots/mobile/projects.jpeg)
+![Mobile Tasks](https://github.com/simple-softwares/simplesoft-frontend/raw/main/public/screenshots/mobile/task.jpeg)
+![Mobile Contacts](https://github.com/simple-softwares/simplesoft-frontend/raw/main/public/screenshots/mobile/contacts.jpeg)
+![Mobile Notifications](https://github.com/simple-softwares/simplesoft-frontend/raw/main/public/screenshots/mobile/notifications.jpeg)
+![Mobile Settings](https://github.com/simple-softwares/simplesoft-frontend/raw/main/public/screenshots/mobile/settings_light.jpeg)
 
 ## Features
 

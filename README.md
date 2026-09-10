@@ -2,7 +2,11 @@
 
 React Native mobile app for SimpleSoft ERP. Manage your business from your phone — projects, CRM, invoicing, HR, chat, notifications, and more.
 
-## Screenshots
+## Web Dashboard
+
+![Web Dashboard](screenshots/02_web_dashboard.png)
+
+## Mobile Screenshots
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; max-width: 600px;">
 
